@@ -17,6 +17,9 @@
 	.header {
 		padding: 0 3%;
 	}
+	.header h1 {
+		font-size: 30px;
+	}
 }
 .main-image {
 	width: 100%;
